@@ -1,0 +1,7 @@
+C:\Users\KrivosheyaS\source\repos\ISD_Inheritance\ISD_Inheritance\bin\Debug\ISD_Inheritance.exe.config
+C:\Users\KrivosheyaS\source\repos\ISD_Inheritance\ISD_Inheritance\bin\Debug\ISD_Inheritance.exe
+C:\Users\KrivosheyaS\source\repos\ISD_Inheritance\ISD_Inheritance\bin\Debug\ISD_Inheritance.pdb
+C:\Users\KrivosheyaS\source\repos\ISD_Inheritance\ISD_Inheritance\obj\Debug\ISD_Inheritance.csprojAssemblyReference.cache
+C:\Users\KrivosheyaS\source\repos\ISD_Inheritance\ISD_Inheritance\obj\Debug\ISD_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\KrivosheyaS\source\repos\ISD_Inheritance\ISD_Inheritance\obj\Debug\ISD_Inheritance.exe
+C:\Users\KrivosheyaS\source\repos\ISD_Inheritance\ISD_Inheritance\obj\Debug\ISD_Inheritance.pdb
