@@ -1,0 +1,7 @@
+C:\Users\KrivosheyaS\source\repos\ISD_Classes\ISD_Classes\bin\Debug\ISD_Classes.exe.config
+C:\Users\KrivosheyaS\source\repos\ISD_Classes\ISD_Classes\bin\Debug\ISD_Classes.exe
+C:\Users\KrivosheyaS\source\repos\ISD_Classes\ISD_Classes\bin\Debug\ISD_Classes.pdb
+C:\Users\KrivosheyaS\source\repos\ISD_Classes\ISD_Classes\obj\Debug\ISD_Classes.csprojAssemblyReference.cache
+C:\Users\KrivosheyaS\source\repos\ISD_Classes\ISD_Classes\obj\Debug\ISD_Classes.csproj.CoreCompileInputs.cache
+C:\Users\KrivosheyaS\source\repos\ISD_Classes\ISD_Classes\obj\Debug\ISD_Classes.exe
+C:\Users\KrivosheyaS\source\repos\ISD_Classes\ISD_Classes\obj\Debug\ISD_Classes.pdb
