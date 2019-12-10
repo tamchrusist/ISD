@@ -1,0 +1,7 @@
+C:\Users\KrivosheyaS\source\repos\ISD_Abstract\ISD_Abstract\bin\Debug\ISD_Abstract.exe.config
+C:\Users\KrivosheyaS\source\repos\ISD_Abstract\ISD_Abstract\bin\Debug\ISD_Abstract.exe
+C:\Users\KrivosheyaS\source\repos\ISD_Abstract\ISD_Abstract\bin\Debug\ISD_Abstract.pdb
+C:\Users\KrivosheyaS\source\repos\ISD_Abstract\ISD_Abstract\obj\Debug\ISD_Abstract.csprojAssemblyReference.cache
+C:\Users\KrivosheyaS\source\repos\ISD_Abstract\ISD_Abstract\obj\Debug\ISD_Abstract.csproj.CoreCompileInputs.cache
+C:\Users\KrivosheyaS\source\repos\ISD_Abstract\ISD_Abstract\obj\Debug\ISD_Abstract.exe
+C:\Users\KrivosheyaS\source\repos\ISD_Abstract\ISD_Abstract\obj\Debug\ISD_Abstract.pdb
