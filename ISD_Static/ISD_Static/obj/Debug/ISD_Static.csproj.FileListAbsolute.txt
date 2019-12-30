@@ -1,0 +1,7 @@
+C:\Users\KrivosheyaS\source\repos\ISD_Static\ISD_Static\bin\Debug\ISD_Static.exe.config
+C:\Users\KrivosheyaS\source\repos\ISD_Static\ISD_Static\bin\Debug\ISD_Static.exe
+C:\Users\KrivosheyaS\source\repos\ISD_Static\ISD_Static\bin\Debug\ISD_Static.pdb
+C:\Users\KrivosheyaS\source\repos\ISD_Static\ISD_Static\obj\Debug\ISD_Static.csprojAssemblyReference.cache
+C:\Users\KrivosheyaS\source\repos\ISD_Static\ISD_Static\obj\Debug\ISD_Static.csproj.CoreCompileInputs.cache
+C:\Users\KrivosheyaS\source\repos\ISD_Static\ISD_Static\obj\Debug\ISD_Static.exe
+C:\Users\KrivosheyaS\source\repos\ISD_Static\ISD_Static\obj\Debug\ISD_Static.pdb
