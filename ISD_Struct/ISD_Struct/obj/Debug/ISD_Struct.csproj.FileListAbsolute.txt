@@ -1,0 +1,7 @@
+C:\Users\Сергій\source\repos\ISD_Struct\ISD_Struct\bin\Debug\ISD_Struct.exe.config
+C:\Users\Сергій\source\repos\ISD_Struct\ISD_Struct\bin\Debug\ISD_Struct.exe
+C:\Users\Сергій\source\repos\ISD_Struct\ISD_Struct\bin\Debug\ISD_Struct.pdb
+C:\Users\Сергій\source\repos\ISD_Struct\ISD_Struct\obj\Debug\ISD_Struct.csprojAssemblyReference.cache
+C:\Users\Сергій\source\repos\ISD_Struct\ISD_Struct\obj\Debug\ISD_Struct.csproj.CoreCompileInputs.cache
+C:\Users\Сергій\source\repos\ISD_Struct\ISD_Struct\obj\Debug\ISD_Struct.exe
+C:\Users\Сергій\source\repos\ISD_Struct\ISD_Struct\obj\Debug\ISD_Struct.pdb
