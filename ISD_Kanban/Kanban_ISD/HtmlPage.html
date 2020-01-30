@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>KANBAN BOARD</title>
+
+    <script src="JavaScript.js"></script>
+    <link href="StyleSheet.css" rel="stylesheet" />
+
+</head>
+
+<body>
+    <header>
+        <h1>Kanban Board</h1>
+    </header>
+    <div class="kanban">
+        <div class="kanban-list" ondrop="drop(event)" ondragover="allowDrop(event)">
+            <div class="kanban-list-header">
+                <h4>TO DO</h4>
+            </div>
+            <div class="kanban-item-container" draggable="true" ondragstart="drag(event)">
+                <div class="kanban-item">
+                    <h5>Read: CLR via C#</h5>
+                </div>
+            </div>
+            <div class="kanban-item-container" draggable="true" ondragstart="drag(event)">
+                <div class="kanban-item">
+                    <h5>Task: Kanban Board</h5>
+                </div>
+            </div>
+            <div class="kanban-item-container" draggable="true" ondragstart="drag(event)">
+                <div class="kanban-item">
+                    <h5>Sport: Joga</h5>
+                </div>
+            </div>
+        </div>
+        <div class="kanban-list" ondrop="drop(event)" ondragover="allowDrop(event)">
+            <div class="kanban-list-header">
+                <h4>In Progress</h4>
+            </div>
+        </div>
+        <div class="kanban-list" ondrop="drop(event)" ondragover="allowDrop(event)">
+            <div class="kanban-list-header">
+                <h4>Finished</h4>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
