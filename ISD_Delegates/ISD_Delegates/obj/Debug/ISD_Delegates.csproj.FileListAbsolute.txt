@@ -1,0 +1,14 @@
+C:\Users\KrivosheyaS\source\repos\ISD_Delegates\ISD_Delegates\bin\Debug\ISD_Delegates.exe.config
+C:\Users\KrivosheyaS\source\repos\ISD_Delegates\ISD_Delegates\bin\Debug\ISD_Delegates.exe
+C:\Users\KrivosheyaS\source\repos\ISD_Delegates\ISD_Delegates\bin\Debug\ISD_Delegates.pdb
+C:\Users\KrivosheyaS\source\repos\ISD_Delegates\ISD_Delegates\obj\Debug\ISD_Delegates.csprojAssemblyReference.cache
+C:\Users\KrivosheyaS\source\repos\ISD_Delegates\ISD_Delegates\obj\Debug\ISD_Delegates.csproj.CoreCompileInputs.cache
+C:\Users\KrivosheyaS\source\repos\ISD_Delegates\ISD_Delegates\obj\Debug\ISD_Delegates.exe
+C:\Users\KrivosheyaS\source\repos\ISD_Delegates\ISD_Delegates\obj\Debug\ISD_Delegates.pdb
+C:\Users\Сергій\Desktop\ISD_Delegates\ISD_Delegates\bin\Debug\ISD_Delegates.exe.config
+C:\Users\Сергій\Desktop\ISD_Delegates\ISD_Delegates\bin\Debug\ISD_Delegates.exe
+C:\Users\Сергій\Desktop\ISD_Delegates\ISD_Delegates\bin\Debug\ISD_Delegates.pdb
+C:\Users\Сергій\Desktop\ISD_Delegates\ISD_Delegates\obj\Debug\ISD_Delegates.csprojAssemblyReference.cache
+C:\Users\Сергій\Desktop\ISD_Delegates\ISD_Delegates\obj\Debug\ISD_Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Сергій\Desktop\ISD_Delegates\ISD_Delegates\obj\Debug\ISD_Delegates.exe
+C:\Users\Сергій\Desktop\ISD_Delegates\ISD_Delegates\obj\Debug\ISD_Delegates.pdb
