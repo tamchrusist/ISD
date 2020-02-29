@@ -1,0 +1,14 @@
+C:\Users\KrivosheyaS\source\repos\ISD_Generics\ISD_Generics\bin\Debug\ISD_Generics.exe.config
+C:\Users\KrivosheyaS\source\repos\ISD_Generics\ISD_Generics\bin\Debug\ISD_Generics.exe
+C:\Users\KrivosheyaS\source\repos\ISD_Generics\ISD_Generics\bin\Debug\ISD_Generics.pdb
+C:\Users\KrivosheyaS\source\repos\ISD_Generics\ISD_Generics\obj\Debug\ISD_Generics.csprojAssemblyReference.cache
+C:\Users\KrivosheyaS\source\repos\ISD_Generics\ISD_Generics\obj\Debug\ISD_Generics.csproj.CoreCompileInputs.cache
+C:\Users\KrivosheyaS\source\repos\ISD_Generics\ISD_Generics\obj\Debug\ISD_Generics.exe
+C:\Users\KrivosheyaS\source\repos\ISD_Generics\ISD_Generics\obj\Debug\ISD_Generics.pdb
+C:\Users\Сергій\Desktop\ISD_Generics\ISD_Generics\bin\Debug\ISD_Generics.exe.config
+C:\Users\Сергій\Desktop\ISD_Generics\ISD_Generics\bin\Debug\ISD_Generics.exe
+C:\Users\Сергій\Desktop\ISD_Generics\ISD_Generics\bin\Debug\ISD_Generics.pdb
+C:\Users\Сергій\Desktop\ISD_Generics\ISD_Generics\obj\Debug\ISD_Generics.csprojAssemblyReference.cache
+C:\Users\Сергій\Desktop\ISD_Generics\ISD_Generics\obj\Debug\ISD_Generics.csproj.CoreCompileInputs.cache
+C:\Users\Сергій\Desktop\ISD_Generics\ISD_Generics\obj\Debug\ISD_Generics.exe
+C:\Users\Сергій\Desktop\ISD_Generics\ISD_Generics\obj\Debug\ISD_Generics.pdb
