@@ -1,0 +1,15 @@
+C:\Users\KrivosheyaS\source\repos\Saver\Saver\bin\Debug\Saver.exe.config
+C:\Users\KrivosheyaS\source\repos\Saver\Saver\bin\Debug\Saver.exe
+C:\Users\KrivosheyaS\source\repos\Saver\Saver\bin\Debug\Saver.pdb
+C:\Users\KrivosheyaS\source\repos\Saver\Saver\obj\Debug\Saver.csprojAssemblyReference.cache
+C:\Users\KrivosheyaS\source\repos\Saver\Saver\obj\Debug\MainWindow.g.cs
+C:\Users\KrivosheyaS\source\repos\Saver\Saver\obj\Debug\App.g.cs
+C:\Users\KrivosheyaS\source\repos\Saver\Saver\obj\Debug\Saver_MarkupCompile.cache
+C:\Users\KrivosheyaS\source\repos\Saver\Saver\obj\Debug\Saver_MarkupCompile.lref
+C:\Users\KrivosheyaS\source\repos\Saver\Saver\obj\Debug\MainWindow.baml
+C:\Users\KrivosheyaS\source\repos\Saver\Saver\obj\Debug\Saver.g.resources
+C:\Users\KrivosheyaS\source\repos\Saver\Saver\obj\Debug\Saver.Properties.Resources.resources
+C:\Users\KrivosheyaS\source\repos\Saver\Saver\obj\Debug\Saver.csproj.GenerateResource.cache
+C:\Users\KrivosheyaS\source\repos\Saver\Saver\obj\Debug\Saver.csproj.CoreCompileInputs.cache
+C:\Users\KrivosheyaS\source\repos\Saver\Saver\obj\Debug\Saver.exe
+C:\Users\KrivosheyaS\source\repos\Saver\Saver\obj\Debug\Saver.pdb
